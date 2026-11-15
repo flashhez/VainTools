@@ -1,0 +1,40 @@
+Vain Tools
+Copyright (c) 2026 VAIN. All rights reserved.
+
+"Vain Tools" here means all of it: Vain Toolbox, Vain Governor, Vain Tools, Vain Start, VainShell,
+VainWindows and VainUpdater.
+
+1. Use. Vain Tools is freeware. You may download it and use it on any number of computers, for
+   personal or commercial purposes, free of charge.
+
+2. Where to get it. Vain Tools is distributed only through its official page,
+   https://github.com/flashhez/VainTools, and installed by the Vain Playbook,
+   https://github.com/flashhez/Vain-Playbook. To share it, link to one of those pages rather than
+   passing on the files themselves. Hosting, mirroring or bundling the files elsewhere needs
+   written permission from VAIN.
+
+3. What you may not do. You may not sell Vain Tools, modify it, or decompile, disassemble or
+   otherwise reverse engineer it, except where the law expressly allows this despite this
+   limitation. You may not charge for installing, applying or setting up Vain Tools on someone
+   else's computer, or offer it as part of a paid service.
+
+4. Screenshots and results. You may freely publish screenshots of Vain Tools and the values it
+   shows, for example in forum posts, reviews, guides and benchmark results.
+
+5. Names. "Vain Tools", "Vain Toolbox", "Vain Governor", "Vain Start", "VAIN" and "VAIN.ZONE" may
+   not be used as or in the name of any other software, modified copy or download, and may not be
+   used in a way that suggests VAIN made or endorses something it didn't.
+
+6. No warranty. Vain Tools changes Windows settings and the registry, installs and removes drivers,
+   applies GPU clocks, voltages and fan curves, and loads into Explorer. It is provided "as is",
+   without warranty of any kind, express or implied, including fitness for a particular purpose. In
+   no event shall the authors be liable for any damage or loss arising from its use, including
+   damage to hardware or loss of data.
+
+7. Microsoft components. Vain Tools includes files of the Microsoft Windows App SDK. They are
+   Microsoft's, licensed under Microsoft's terms, and may be used only as part of Vain Tools.
+   Sections 2, 3 and 6 apply to them as well, and protect Microsoft as they protect VAIN.
+
+8. Third-party software. The third-party software included in Vain Tools is not covered by this
+   licence. Each part keeps its own licence, listed in THIRD-PARTY-NOTICES.txt; nothing here limits
+   the rights those licences give you.
